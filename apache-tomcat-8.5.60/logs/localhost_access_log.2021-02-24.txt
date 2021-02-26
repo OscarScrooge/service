@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:22:18 -0600] "GET /service/services/marvel/creators/ironman HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:22:24 -0600] "GET /service/services/marvel/creators/ironman HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:22:37 -0600] "GET /service/services/marvel/creators/ironman HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:23:06 -0600] "GET /service/services/marvel/characters/ironman HTTP/1.1" 500 2974
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:23:06 -0600] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [24/Feb/2021:19:23:44 -0600] "GET /service/services/marvel/characters/ironman HTTP/1.1" 200 63752
